@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-page/static/css/main.fc7c4010.css",
-    "main.js": "/my-page/static/js/main.b38efb85.js",
+    "main.js": "/my-page/static/js/main.fc01990e.js",
     "static/js/787.d3428903.chunk.js": "/my-page/static/js/787.d3428903.chunk.js",
     "static/media/satisfactory.png": "/my-page/static/media/satisfactory.00e2517e4a557cc7aa29.png",
     "static/media/scottland castle 2.jpg": "/my-page/static/media/scottland castle 2.80c7ea0bb743f36a9616.jpg",
@@ -21,11 +21,11 @@
     "static/media/logo.svg": "/my-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-page/index.html",
     "main.fc7c4010.css.map": "/my-page/static/css/main.fc7c4010.css.map",
-    "main.b38efb85.js.map": "/my-page/static/js/main.b38efb85.js.map",
+    "main.fc01990e.js.map": "/my-page/static/js/main.fc01990e.js.map",
     "787.d3428903.chunk.js.map": "/my-page/static/js/787.d3428903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7c4010.css",
-    "static/js/main.b38efb85.js"
+    "static/js/main.fc01990e.js"
   ]
 }
