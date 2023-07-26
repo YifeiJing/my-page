@@ -1,31 +1,35 @@
 {
   "files": {
     "main.css": "/my-page/static/css/main.fc7c4010.css",
-    "main.js": "/my-page/static/js/main.fc01990e.js",
+    "main.js": "/my-page/static/js/main.602ccca6.js",
     "static/js/787.d3428903.chunk.js": "/my-page/static/js/787.d3428903.chunk.js",
     "static/media/satisfactory.png": "/my-page/static/media/satisfactory.00e2517e4a557cc7aa29.png",
     "static/media/scottland castle 2.jpg": "/my-page/static/media/scottland castle 2.80c7ea0bb743f36a9616.jpg",
+    "static/media/bike.jpg": "/my-page/static/media/bike.79d10de2fbd1b8cbc617.jpg",
     "static/media/scottland castle.jpg": "/my-page/static/media/scottland castle.5a0018351ddd0aa70f88.jpg",
+    "static/media/xidian.jpg": "/my-page/static/media/xidian.f270fdf10ffc53e30353.jpg",
     "static/media/youfang.jpg": "/my-page/static/media/youfang.c6a700f4deadd8f6ef16.jpg",
     "static/media/yakiniku.jpg": "/my-page/static/media/yakiniku.4b1eb302d9e3c64fb520.jpg",
     "static/media/princesstreet.jpg": "/my-page/static/media/princesstreet.ee47aa7daf8b63fd7cb7.jpg",
     "static/media/scottland.jpg": "/my-page/static/media/scottland.c5ca34b60de5cead44f8.jpg",
     "static/media/cook.jpg": "/my-page/static/media/cook.78c859ccafe661f92ab5.jpg",
     "static/media/ttl.jpg": "/my-page/static/media/ttl.376759d65647a9969de5.jpg",
+    "static/media/euro.jpg": "/my-page/static/media/euro.9e7198d33103efbd2963.jpg",
     "static/media/antenna.jpg": "/my-page/static/media/antenna.721d7f90c8d8d0d21bb9.jpg",
     "static/media/flyppy.jpg": "/my-page/static/media/flyppy.e74f9f8a1bce53e85996.jpg",
     "static/media/esp32.JPG": "/my-page/static/media/esp32.848d31ea4c4118fdd3dd.JPG",
     "static/media/kyushu.jpg": "/my-page/static/media/kyushu.da8154103c51adc4ba2a.jpg",
     "static/media/rdr2.JPG": "/my-page/static/media/rdr2.f965ee6dd14b8f8ab8a0.JPG",
     "static/media/overwatch.jpg": "/my-page/static/media/overwatch.8a825a5471d5ee6c1b01.jpg",
+    "static/media/beatles.jpg": "/my-page/static/media/beatles.abc8931b833a6f30fb8b.jpg",
     "static/media/logo.svg": "/my-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-page/index.html",
     "main.fc7c4010.css.map": "/my-page/static/css/main.fc7c4010.css.map",
-    "main.fc01990e.js.map": "/my-page/static/js/main.fc01990e.js.map",
+    "main.602ccca6.js.map": "/my-page/static/js/main.602ccca6.js.map",
     "787.d3428903.chunk.js.map": "/my-page/static/js/787.d3428903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7c4010.css",
-    "static/js/main.fc01990e.js"
+    "static/js/main.602ccca6.js"
   ]
 }
