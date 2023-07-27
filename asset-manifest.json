@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-page/static/css/main.fc7c4010.css",
-    "main.js": "/my-page/static/js/main.602ccca6.js",
+    "main.js": "/my-page/static/js/main.4b99788f.js",
     "static/js/787.d3428903.chunk.js": "/my-page/static/js/787.d3428903.chunk.js",
     "static/media/satisfactory.png": "/my-page/static/media/satisfactory.00e2517e4a557cc7aa29.png",
     "static/media/scottland castle 2.jpg": "/my-page/static/media/scottland castle 2.80c7ea0bb743f36a9616.jpg",
@@ -21,15 +21,16 @@
     "static/media/kyushu.jpg": "/my-page/static/media/kyushu.da8154103c51adc4ba2a.jpg",
     "static/media/rdr2.JPG": "/my-page/static/media/rdr2.f965ee6dd14b8f8ab8a0.JPG",
     "static/media/overwatch.jpg": "/my-page/static/media/overwatch.8a825a5471d5ee6c1b01.jpg",
+    "static/media/subset.jpeg": "/my-page/static/media/subset.284c3bb0731c6036e8ad.jpeg",
     "static/media/beatles.jpg": "/my-page/static/media/beatles.abc8931b833a6f30fb8b.jpg",
     "static/media/logo.svg": "/my-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-page/index.html",
     "main.fc7c4010.css.map": "/my-page/static/css/main.fc7c4010.css.map",
-    "main.602ccca6.js.map": "/my-page/static/js/main.602ccca6.js.map",
+    "main.4b99788f.js.map": "/my-page/static/js/main.4b99788f.js.map",
     "787.d3428903.chunk.js.map": "/my-page/static/js/787.d3428903.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc7c4010.css",
-    "static/js/main.602ccca6.js"
+    "static/js/main.4b99788f.js"
   ]
 }
