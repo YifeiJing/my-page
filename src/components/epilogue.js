@@ -86,19 +86,19 @@ const Epilogue = (props) => {
                 </p>
                 <button className="w3-collapsible" onClick={onButtonClicked}>Read {_display === 'none' ? "More" : "Less"}</button>
                 <div className="w3-collapsible-content" style={{display:_display}}>
-                <h3>Why I made this page?</h3>
-                <p> When I first went to this event, I felt hard to communicate with people.
-                    One reason is that the hall was full of people talking so loudly that it was impossible for me to listen and transite.
-                    The other reason is that I am not a talkative person. I prefer a tranquil place to talk softly though, it is still hard for me to express what I want to say.
-                    I am an engineer and it is my job to make things. 
-                    So I made this page to show about myself and let you know more in such a limit time.
+                <h3>なぜこのぺーじを作った?</h3>
+                <p> はじめてこのイベントを行ったとき、あんまり話すできなかった。
+                    一つの原因として、たくさんの人はこの部屋に喋ってるので、聞くことも話すことも難しくなった。
+                    も一つの原因は自分は元々話少ない人のこと。
+                    静かな場所に緩くて喋るでも、伝えできない状況もよくある。
+                    エンジニアなので、ものを作ることは得意です。 
+                    だから、このページを作って、短時間で相手にちゃんと自分のことを伝えるように。
                 </p>
                 <p>
-                    On the other hand, it is also a chance to improve my skills of web development. 
-                    After I got the job, I seldomly made things of interests.
-                    I argue that it is not a good idea to be pushed by the job.
-                    This web page is not only a tool to help with me participating this event but also a motivation for me to persue the light of engineering.
-                </p>
+                    これも自分のスキルを高める機会だと思ってます。 
+                    仕事を始めたあと、趣味でプロジェクトをやることはすくなくなった。
+                    だから、このウェブページは、このイベントに参加するのを手助けするだけでなく、エンジニアリングの技術力を追求するための動機づけとなるものもある。
+                    </p>
                 <h3>How this web page was made?</h3>
                 <p>
                     As you may wonder how I created this page.
