@@ -18,10 +18,35 @@ const Epilogue = (props) => {
                 {props.lang === 0 ? 
                 <>
                 <p> 
-                    Thanks for reading to the End.
+                    Thanks for reading to the End. Hope you have known something about me.
                 </p>
                 <button className="w3-collapsible" onClick={onButtonClicked}>Read {_display === 'none' ? "More" : "Less"}</button>
                 <div className="w3-collapsible-content" style={{display:_display}}>
+                <h3>Why I made this page?</h3>
+                <p> When I first went to this event, I felt hard to communicate with people.
+                    One reason is that the hall was full of people talking so loudly that it was impossible for me to listen and transite.
+                    The other reason is that I am not a talkative person. I prefer a tranquil place to talk softly though, it is still hard for me to express what I want to say.
+                    I am an engineer and it is my job to make things. 
+                    So I made this page to show about myself and let you know more in such a limit time.
+                </p>
+                <p>
+                    On the other hand, it is also a chance to improve my skills of web development. 
+                    After I got the job, I seldomly made things of interests.
+                    I argue that it is not a good idea to be pushed by the job.
+                    This web page is not only a tool to help with me participating this event but also a motivation for me to persue the light of engineering.
+                </p>
+                <h3>How this web page was made?</h3>
+                <p>
+                    As you may wonder how I created this page.
+                    Firstly, this is a static web page, which means it does not need an application server to handle sessions and authentications.
+                    This eliminates the use of a cloud instance, and it is possible to use the <a href="https://pages.github.com/">Github Page</a> to serve.
+                    Secondly, I am not good at styling front-end, so the best the way is to reuse the code from others.
+                    I used the css from <a href='https://www.w3schools.com/html/html_styles.asp'>w3 style</a>.
+                    I used the library <a href='https://react.dev/'>React</a>, which provides the feature for me to make reusable components.
+                    Originally, it was using <a href='https://aws.amazon.com/cn/s3/'>Amazon S3</a> to manage the photos and table resources.
+                    Then I found it was possible to store all of them on the server itself so I removed the S3.
+                </p>
+                <h3>My thoughts about dealing with relationship</h3>
                 <p>
                     Based on interests, I can make friends as many as possible. 
                     But all those relationships did not last long, which had confused me before.
@@ -57,10 +82,35 @@ const Epilogue = (props) => {
                 :
                 <>
                 <p> 
-                    最後まで読んでくれてありがとう！
+                    最後まで読んでくれてありがとう！少しでも私のことを分かるようになればと思います。
                 </p>
                 <button className="w3-collapsible" onClick={onButtonClicked}>Read {_display === 'none' ? "More" : "Less"}</button>
                 <div className="w3-collapsible-content" style={{display:_display}}>
+                <h3>Why I made this page?</h3>
+                <p> When I first went to this event, I felt hard to communicate with people.
+                    One reason is that the hall was full of people talking so loudly that it was impossible for me to listen and transite.
+                    The other reason is that I am not a talkative person. I prefer a tranquil place to talk softly though, it is still hard for me to express what I want to say.
+                    I am an engineer and it is my job to make things. 
+                    So I made this page to show about myself and let you know more in such a limit time.
+                </p>
+                <p>
+                    On the other hand, it is also a chance to improve my skills of web development. 
+                    After I got the job, I seldomly made things of interests.
+                    I argue that it is not a good idea to be pushed by the job.
+                    This web page is not only a tool to help with me participating this event but also a motivation for me to persue the light of engineering.
+                </p>
+                <h3>How this web page was made?</h3>
+                <p>
+                    As you may wonder how I created this page.
+                    Firstly, this is a static web page, which means it does not need an application server to handle sessions and authentications.
+                    This eliminates the use of a cloud instance, and it is possible to use the <a href="https://pages.github.com/">Github Page</a> to serve.
+                    Secondly, I am not good at styling front-end, so the best the way is to reuse the code from others.
+                    I used the css from <a href='https://www.w3schools.com/html/html_styles.asp'>w3 style</a>.
+                    I used the library <a href='https://react.dev/'>React</a>, which provides the feature for me to make reusable components.
+                    Originally, it was using <a href='https://aws.amazon.com/cn/s3/'>Amazon S3</a> to manage the photos and table resources.
+                    Then I found it was possible to store all of them on the server itself so I removed the S3.
+                </p>
+                {/* <h3>自分の考え</h3>
                 <p>
                     興味に基づいて、できるだけ多くの友達を作ることができます。
                     しかし、それらの関係は長続きせず、以前は私を混乱させていました。
@@ -89,7 +139,7 @@ const Epilogue = (props) => {
 
                     要するに、全ての価値観と完全に一致する相手を見つけることは難しいかもしれませんが、オープンなコミュニケーションと個人の成長へのコミットメントは、関係の持続と充実に貢献することができると言えます。
                 
-                </p>
+                </p> */}
                 </div>
                 </>}
             </>
