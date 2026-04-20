@@ -11,8 +11,8 @@ function App() {
       </div>
      
       <footer class="w3-container w3-black w3-padding-top-32">
-        <p>Powered by <span className='w3-text-cyan'>React</span>, <span className='w3-text-teal'>Github Page</span>, and <span className='w3-text-orange'>AWS S3</span></p>
-        <p>Created by <a href={"https://yifeijing.github.io/"} className='w3-text-purple'>rvalue</a> --- yifei.j@ik.me</p>
+        <p>Powered by <span className='w3-text-cyan'>React</span>, <span className='w3-text-teal'>Github Page</span></p>
+        <p>Created by <a href={"https://yifeijing.github.io/"} className='w3-text-purple'>rvalue</a> --- jingyifei1998@gmail.com</p>
       </footer>
     </div>
   );

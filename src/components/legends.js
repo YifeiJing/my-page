@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Profile from "./profile";
 import Gallery from "./gallery";
 import Intro from "./intro";
+import Projects from "./projects";
 import Epilogue from "./epilogue";
 
 const Legends = (props) => {
@@ -23,6 +24,8 @@ const Legends = (props) => {
             </div>
 		</div> */}
         <Intro lang={language}/>
+
+        <Projects lang={language}/>
 
 		<Gallery lang={language}/>
 
