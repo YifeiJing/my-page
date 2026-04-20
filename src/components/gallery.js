@@ -28,7 +28,7 @@ const Gallery = (props) => {
             <div className='w3-padding-16 w3-center'>
                 <h2>Gallery</h2>
             </div>
-            <div className='w3-padding-16'>
+            {/* <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="My School in China." jp="中国の大学。" imgsrc={xidian}/>
             </div>           
             <div className='w3-padding-16'>
@@ -60,7 +60,7 @@ const Gallery = (props) => {
             </div>
             <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="When I play Euro Truck 2." jp="Euro Truck 2をやるとき。" imgsrc={euro}/>
-            </div>
+            </div> */}
             <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="My favorate slice of code." jp="好きなコード" imgsrc={subsets}/>
             </div>
@@ -76,12 +76,12 @@ const Gallery = (props) => {
             <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="Signal after 5m wireless communication." jp="5m無線通信後の信号。" imgsrc={ttl}/>
             </div>
-            <div className='w3-padding-16'>
+            {/* <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="Fortune server by ESP32." jp="一言サーバー。" imgsrc={esp32}/>
             </div>
             <div className='w3-padding-16'>
                 <GalleryItem lang={props.lang} en="Traveled to Saitama." jp="埼玉にバイク旅。" imgsrc={bike}/>
-            </div>
+            </div> */}
             
         </>
     )

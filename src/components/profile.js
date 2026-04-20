@@ -84,7 +84,7 @@ const Profile = (props) => {
                 </tr>
                 <tr>
                     <th>勤務年数</th>
-                    <td>0.5</td>
+                    <td>3</td>
                 </tr>
                 <tr>
                     <th>在住</th>
